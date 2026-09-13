@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/Zhorran/judo-ju-jitsu-planner-updates/releases/tag/v1.3.1",
-  "notes": "Nouvelle version 1.3.1 : ajout des séances indépendantes et synchronisation de la bibliothèque Mes séances entre Windows et Android."
+  "version": "1.3.2",
+  "url": "https://github.com/Zhorran/judo-ju-jitsu-planner-updates/releases/tag/v1.3.2",
+  "notes": "Correctif 1.3.2 : ajout de l'import de séances directement dans la bibliothèque Mes séances et amélioration de l'interface du bouton d'import."
 }
