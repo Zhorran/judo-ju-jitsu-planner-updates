@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
-  "url": "https://github.com/Zhorran/judo-ju-jitsu-planner-updates/releases/tag/v1.3.2",
-  "notes": "Correctif 1.3.2 : ajout de l'import de séances directement dans la bibliothèque Mes séances et amélioration de l'interface du bouton d'import."
+  "version": "1.3.3",
+  "url": "https://github.com/Zhorran/judo-ju-jitsu-planner-updates/releases/tag/v1.3.3",
+  "notes": "Version 1.3.3 : ajout de la réorganisation des exercices avec les flèches haut/bas et de l'export des séances depuis la bibliothèque Mes séances."
 }
